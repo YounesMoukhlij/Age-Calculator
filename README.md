@@ -13,7 +13,21 @@
 
 A modern, responsive age calculator web application that allows users to input their birthdate through a custom JavaScript datepicker and calculates their exact age using the Luxon library for precise date handling.
 
-## 🚀 Features
+## � Project Overview
+
+<div align="center">
+
+### Desktop View
+![Age Calculator Desktop View](./images/1.png)
+
+### Mobile/Calendar View
+![Age Calculator Mobile/Calendar View](./images/2.png)
+
+*Experience the clean, modern interface with both manual input and interactive calendar functionality*
+
+</div>
+
+## �🚀 Features
 
 ### ✨ **Dual Input Methods**
 - **Custom Datepicker**: Interactive calendar with month navigation
