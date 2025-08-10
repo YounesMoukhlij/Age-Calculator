@@ -20,7 +20,7 @@ A modern, responsive age calculator web application that allows users to input t
 ### Desktop View
 ![Age Calculator Desktop View](./images/1.png)
 
-### Mobile/Calendar View
+### Calendar View
 ![Age Calculator Mobile/Calendar View](./images/2.png)
 
 *Experience the clean, modern interface with both manual input and interactive calendar functionality*
